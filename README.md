@@ -12,7 +12,7 @@
   <img alt="HTML" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img alt="CSS" height="50" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img alt="K8S" height="50" with="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain-wordmark.svg">
-  <img alt="PYTHON" height="50" with="90" src="https://www.google.com/imgres?q=imagem%20python%20svg&imgurl=https%3A%2F%2Fouch-cdn2.icons8.com%2F-lmpeZ9rEABImqUVvCTj28Y3PpT0B2vTyJzj1uoyc9U%2Frs%3Afit%3A368%3A368%2FczM6Ly9pY29uczgu%2Fb3VjaC1wcm9kLmFz%2Fc2V0cy9wbmcvNjg2%2FLzdmMWM2NmVmLWM5%2FMzUtNDZkNy1hMWMz%2FLTcwYWFmYzA2MzEy%2FZi5wbmc.png&imgrefurl=https%3A%2F%2Ficons8.com.br%2Fillustrations%2Ft%2Fpython-snake&docid=IZR_YKamkzFqYM&tbnid=uGB5GUGFBGeFmM&vet=12ahUKEwiezfG_596IAxVAr5UCHbK0JZAQM3oECG0QAA..i&w=368&h=368&hcb=2&itg=1&ved=2ahUKEwiezfG_596IAxVAr5UCHbK0JZAQM3oECG0QAA">
+  <img alt="PYTHON" height="50" with="90" src="https://static.vecteezy.com/system/resources/previews/012/697/295/non_2x/3d-python-programming-language-logo-free-png.png">
  </div>
  
 <!--  ### Pra conteúdo sobre programação me segue a gente nas redes abaixo!
